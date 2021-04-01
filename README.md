@@ -6,5 +6,4 @@ This is a very simple game of tic tac toe. I used Justin Kim's tutorial to creat
 ## Technologies Used
 HTML, CSS & Javascript
 
-## What the Game looks like
-![screenshot](picture.png)
+

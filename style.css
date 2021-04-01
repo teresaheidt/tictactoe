@@ -12,7 +12,7 @@
   }
   
   .container {
-    background: #14BDAC;
+    background: rgb(244, 33, 201);
     margin: 50px;
     padding: 50px;
     border-radius: 25px;
@@ -56,7 +56,7 @@
   }
   
   .game-cell {
-    background: #14BDAC;
+    background: rgb(237, 91, 208);
     display: flex;
     justify-content: center;
     align-items: center;
